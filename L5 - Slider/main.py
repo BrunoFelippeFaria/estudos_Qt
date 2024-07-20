@@ -1,6 +1,6 @@
 import sys
-from PySide6.QtWidgets import QApplication
 from Window import janela
+from PySide6.QtWidgets import QApplication
 
 app = QApplication(sys.argv)
 
